@@ -1,5 +1,5 @@
 package com.educandoweb.course.entities;
-//comentario
+
 
 import java.io.Serializable;
 
